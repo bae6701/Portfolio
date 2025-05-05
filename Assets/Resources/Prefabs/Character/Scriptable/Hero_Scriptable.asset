@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67af2917e0c2c7643b97ab9aa5696ab9, type: 3}
+  m_Name: Hero_Scriptable
+  m_EditorClassIdentifier: 
+  heroDatas:
+  - name: "\uC804\uC0AC"
+    description: 
+    attack: 10
+    attackRange: 1
+    attackSpeed: 0.5
+    currentattackSpeed: 0
+    heroType: 4
+    heroAttackType: 0
+    rarity: 0
+    animator: {fileID: 9100000, guid: eddb32008f7b76946b049fa21ca7dec1, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 0
+      name: 
+      description: 
+      coolTime: 0
+      duration: 0
+      skillDamage: 0
+      skillRange: 0
+  - name: "\uAD81\uC0AC"
+    description: 
+    attack: 8
+    attackRange: 1.5
+    attackSpeed: 0.6
+    currentattackSpeed: 0
+    heroType: 1
+    heroAttackType: 1
+    rarity: 0
+    animator: {fileID: 9100000, guid: 6d5bdc09b95f9cf42b35526f4800b3b4, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 0
+      name: 
+      description: 
+      coolTime: 0
+      duration: 0
+      skillDamage: 0
+      skillRange: 0
+  - name: "\uB3C4\uC801"
+    description: 
+    attack: 8
+    attackRange: 1
+    attackSpeed: 0.8
+    currentattackSpeed: 0
+    heroType: 2
+    heroAttackType: 0
+    rarity: 0
+    animator: {fileID: 9100000, guid: a34679c7f33c4f34fb2757a279483835, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 0
+      name: 
+      description: 
+      coolTime: 0
+      duration: 0
+      skillDamage: 0
+      skillRange: 0
+  - name: "\uC131\uC9C1\uC790"
+    description: 
+    attack: 7
+    attackRange: 1.5
+    attackSpeed: 0.5
+    currentattackSpeed: 0
+    heroType: 3
+    heroAttackType: 1
+    rarity: 0
+    animator: {fileID: 9100000, guid: 9b51f995e32a1594595a8f31c5c8a71b, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 0
+      name: 
+      description: 
+      coolTime: 0
+      duration: 0
+      skillDamage: 0
+      skillRange: 0
+  - name: "\uB9C8\uBC95\uC0AC"
+    description: 
+    attack: 15
+    attackRange: 1.5
+    attackSpeed: 0.5
+    currentattackSpeed: 0
+    heroType: 5
+    heroAttackType: 1
+    rarity: 0
+    animator: {fileID: 9100000, guid: f3bfbe20a4ed41140a51463d8ec94840, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 0
+      name: 
+      description: 
+      coolTime: 0
+      duration: 0
+      skillDamage: 0
+      skillRange: 0
+  - name: "\uCD1D\uC7A1\uC774"
+    description: 
+    attack: 20
+    attackRange: 1.5
+    attackSpeed: 1
+    currentattackSpeed: 0
+    heroType: 6
+    heroAttackType: 1
+    rarity: 1
+    animator: {fileID: 9100000, guid: 8f07b1b43164ac245a198c00dc517b05, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 1
+      name: 
+      description: 
+      coolTime: 3
+      duration: 0
+      skillDamage: 150
+      skillRange: 0
+  - name: "\uBC29\uD328\uB9E8"
+    description: 
+    attack: 20
+    attackRange: 1
+    attackSpeed: 0.7
+    currentattackSpeed: 0
+    heroType: 7
+    heroAttackType: 0
+    rarity: 1
+    animator: {fileID: 9100000, guid: 1f14d3dbb8290b4428f4d4d15afc50f8, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 2
+      name: 
+      description: 
+      coolTime: 3
+      duration: 2
+      skillDamage: 250
+      skillRange: 1
+  - name: "\uB9DD\uCE58\uB9E8"
+    description: "\uAC15\uB825\uD55C \uBABD\uB465\uC774\uB85C \uC801\uB4E4\uC744
+      \uACF5\uACA9\uD558\uB294 \uC804\uC0AC\uC785\uB2C8\uB2E4."
+    attack: 90
+    attackRange: 1.5
+    attackSpeed: 0.5
+    currentattackSpeed: 0
+    heroType: 8
+    heroAttackType: 0
+    rarity: 2
+    animator: {fileID: 9100000, guid: fa256d3d104c10d44acb53c6d74f56f3, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 0
+      name: 
+      description: 
+      coolTime: 0
+      duration: 0
+      skillDamage: 0
+      skillRange: 0
+  - name: "\uCE7C\uC7A1\uC774"
+    description: "\uBAA8\uB4E0\uAC83\uC744 \uBCA0\uC5B4\uBC84\uB9AC\uB294 \uCE7C\uC744
+      \uAC00\uC9C4\uC790"
+    attack: 80
+    attackRange: 1.5
+    attackSpeed: 1
+    currentattackSpeed: 0
+    heroType: 9
+    heroAttackType: 0
+    rarity: 2
+    animator: {fileID: 9100000, guid: 406c2608fe57ca3468dd468eb6d02f0b, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 0
+      name: 
+      description: 
+      coolTime: 0
+      duration: 0
+      skillDamage: 0
+      skillRange: 0
+  - name: "\uB9C8\uB140"
+    description: "\uAC15\uB825\uD55C \uB9C8\uBC95\uC744 \uAD6C\uC0AC \uAC00\uB2A5\uD55C
+      \uC790"
+    attack: 50
+    attackRange: 2
+    attackSpeed: 0.6
+    currentattackSpeed: 0
+    heroType: 10
+    heroAttackType: 1
+    rarity: 2
+    animator: {fileID: 9100000, guid: 3c18bddb3aef4714085dbb117777988e, type: 2}
+    debuffData:
+      slowAmount: 0.3
+      slowduration: 1
+      stunduration: 1
+    skillData:
+      skillType: 0
+      name: 
+      description: 
+      coolTime: 0
+      duration: 0
+      skillDamage: 0
+      skillRange: 0
