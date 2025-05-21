@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0108: 멤버가 상속된 멤버를 숨깁니다. new 키워드가 없습니다.
+dotnet_diagnostic.CS0108.severity = none

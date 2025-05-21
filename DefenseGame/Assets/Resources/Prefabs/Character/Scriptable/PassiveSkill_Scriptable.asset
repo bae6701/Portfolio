@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e1a353ff4b85648bff318abb8a3f9c, type: 3}
+  m_Name: PassiveSkill_Scriptable
+  m_EditorClassIdentifier: 
+  heroPassiveList:
+  - heroType: 1
+    passives:
+    - openLevel: 5
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0 \uD788\uC5B4\uB85C\uC758 \uACF5\uACA9\uC18D\uB3C4\uB97C
+        1% \uC0C1\uC2B9\uC2DC\uD0A8\uB2E4"
+    - openLevel: 15
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0 \uD788\uC5B4\uB85C\uC758 \uACF5\uACA9\uC18D\uB3C4\uB97C
+        5% \uC0C1\uC2B9\uC2DC\uD0A8\uB2E4"
+    - openLevel: 30
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0 \uD788\uC5B4\uB85C\uC758 \uACF5\uACA9\uC18D\uB3C4\uB97C
+        10% \uC0C1\uC2B9\uC2DC\uD0A8\uB2E4"
+  - heroType: 2
+    passives:
+    - openLevel: 5
+      description: "5% \uD655\uB960\uB85C \uCE58\uBA85\uD0C0 \uB370\uBBF8\uC9C0\uB97C
+        \uC900\uB2E4."
+    - openLevel: 15
+      description: "10% \uD655\uB960\uB85C \uCE58\uBA85\uD0C0 \uB370\uBBF8\uC9C0\uB97C
+        \uC900\uB2E4."
+    - openLevel: 30
+      description: "15% \uD655\uB960\uB85C \uCE58\uBA85\uD0C0 \uB370\uBBF8\uC9C0\uB97C
+        \uC900\uB2E4."
+  - heroType: 3
+    passives:
+    - openLevel: 5
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0 \uD788\uC5B4\uB85C\uC758 SP\uB97C 1%
+        \uD655\uB960\uB85C \uAC00\uB4DD \uCC44\uC6CC\uC900\uB2E4"
+    - openLevel: 15
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0 \uD788\uC5B4\uB85C\uC758 SP\uB97C 3%
+        \uD655\uB960\uB85C \uAC00\uB4DD \uCC44\uC6CC\uC900\uB2E4"
+    - openLevel: 30
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0 \uD788\uC5B4\uB85C\uC758 SP\uB97C 5%
+        \uD655\uB960\uB85C \uAC00\uB4DD \uCC44\uC6CC\uC900\uB2E4"
+  - heroType: 4
+    passives:
+    - openLevel: 5
+      description: "\uACF5\uACA9\uC2DC 5% \uD655\uB960\uB85C \uACE8\uB4DC 1\uB97C
+        \uC5BB\uB294\uB2E4"
+    - openLevel: 15
+      description: "\uACF5\uACA9\uC2DC 10% \uD655\uB960\uB85C \uACE8\uB4DC 1\uB97C
+        \uC5BB\uB294\uB2E4"
+    - openLevel: 30
+      description: "\uACF5\uACA9\uC2DC 15% \uD655\uB960\uB85C \uACE8\uB4DC 1\uB97C
+        \uC5BB\uB294\uB2E4"
+  - heroType: 5
+    passives:
+    - openLevel: 5
+      description: "\uACF5\uACA9\uC2DC 1% \uD655\uB960\uB85C \uBC29\uC5B4\uB825 10%\uB97C
+        \uAE4D\uB294\uB2E4"
+    - openLevel: 15
+      description: "\uACF5\uACA9\uC2DC 5% \uD655\uB960\uB85C \uBC29\uC5B4\uB825 10%\uB97C
+        \uAE4D\uB294\uB2E4"
+    - openLevel: 30
+      description: "\uACF5\uACA9\uC2DC 15% \uD655\uB960\uB85C \uBC29\uC5B4\uB825
+        10%\uB97C \uAE4D\uB294\uB2E4"
+  - heroType: 6
+    passives:
+    - openLevel: 5
+      description: "\uC2A4\uD0AC\uC0AC\uC6A9\uC2DC \uC8FC\uBCC0 \uBAAC\uC2A4\uD130
+        \uC2A4\uD134\uD655\uB960 5%"
+    - openLevel: 15
+      description: "\uC2A4\uD0AC\uC0AC\uC6A9\uC2DC \uC8FC\uBCC0 \uBAAC\uC2A4\uD130
+        \uC2A4\uD134\uD655\uB960 10%"
+    - openLevel: 30
+      description: "\uC2A4\uD0AC\uC0AC\uC6A9\uC2DC \uC8FC\uBCC0 \uBAAC\uC2A4\uD130
+        \uC2A4\uD134\uD655\uB960 15%"
+  - heroType: 7
+    passives:
+    - openLevel: 5
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0\uBAAC\uC2A4\uD130\uC758 \uBC29\uC5B4\uB825
+        5%\uB97C \uAE4D\uB294\uB2E4"
+    - openLevel: 15
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0\uBAAC\uC2A4\uD130\uC758 \uBC29\uC5B4\uB825
+        10%\uB97C \uAE4D\uB294\uB2E4"
+    - openLevel: 30
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0\uBAAC\uC2A4\uD130\uC758 \uBC29\uC5B4\uB825
+        15%\uB97C \uAE4D\uB294\uB2E4"
+  - heroType: 8
+    passives:
+    - openLevel: 5
+      description: "\uACF5\uACA9\uC2DC 10%\uD655\uB960\uB85C \uC2AC\uB85C\uC6B0"
+    - openLevel: 15
+      description: "\uACF5\uACA9\uC2DC 15%\uD655\uB960\uB85C \uC2AC\uB85C\uC6B0"
+    - openLevel: 30
+      description: "\uACF5\uACA9\uC2DC 20%\uD655\uB960\uB85C \uC2AC\uB85C\uC6B0"
+  - heroType: 9
+    passives:
+    - openLevel: 5
+      description: "\uACF5\uACA9\uC2DC 10%\uD655\uB960\uB85C \uACF5\uACA9\uB825 100%
+        \uC0C1\uC2B9"
+    - openLevel: 15
+      description: "\uACF5\uACA9\uC2DC 15%\uD655\uB960\uB85C \uACF5\uACA9\uB825 150%
+        \uC0C1\uC2B9"
+    - openLevel: 30
+      description: "\uACF5\uACA9\uC2DC 20%\uD655\uB960\uB85C \uACF5\uACA9\uB825 200%
+        \uC0C1\uC2B9"
+  - heroType: 10
+    passives:
+    - openLevel: 5
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0\uBAAC\uC2A4\uD130\uC758 \uBC29\uC5B4\uB825
+        5%\uB97C \uAE4D\uB294\uB2E4"
+    - openLevel: 15
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0\uBAAC\uC2A4\uD130\uC758 \uBC29\uC5B4\uB825
+        10%\uB97C \uAE4D\uB294\uB2E4"
+    - openLevel: 30
+      description: "\uC8FC\uBCC0 \uBAA8\uB4E0\uBAAC\uC2A4\uD130\uC758 \uBC29\uC5B4\uB825
+        15%\uB97C \uAE4D\uB294\uB2E4"
