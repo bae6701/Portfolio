@@ -24,7 +24,7 @@ public class Boss : Monster
         _stunParticle = Managers.Resource.Instantiate("Contents/Stun").GetComponent<ParticleSystem>();
         _stunParticle.transform.SetParent(transform);
         _stunParticle.transform.position = new Vector3(0.06f, 0.3f, 0);
-        _stunParticle.transform.localScale = new Vector3(0.18f, 0.18f, 0.18f);
+        _stunParticle.transform.localScale = new Vector3(0.3f, 0.3f, 0.3f);
         _stunParticle.gameObject.SetActive(false);
     }
 }

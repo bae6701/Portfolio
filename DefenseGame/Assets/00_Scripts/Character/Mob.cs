@@ -22,7 +22,7 @@ public class Mob : Monster
     {
         _stunParticle = Managers.Resource.Instantiate("Contents/Stun").GetComponent<ParticleSystem>();
         _stunParticle.transform.SetParent(transform);
-        _stunParticle.transform.position = Vector3.zero;
+        _stunParticle.transform.position = new Vector3(0.06f, 0, 0);
         _stunParticle.gameObject.SetActive(false);
     }   
 }
