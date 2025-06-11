@@ -1,8 +1,9 @@
 [Project] 운빨존많겜 : Unity NetCode 기반 실시간 멀티플레이 타워 디펜스
 
-![로비 스크린샷](https://github.com/user-attachments/assets/4f409d3f-eb78-418f-80ac-103512c743dd)
+![로비 스크린샷](https://github.com/user-attachments/assets/eb2cec8a-f65b-45f2-9be7-7909d9f4b6e8)
 
 <br>
+
 핵심 플레이 영상(https://youtu.be/rImSYQ_9wTE)
 <br>
 
