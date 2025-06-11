@@ -154,7 +154,8 @@ public class Monster : Character
             gameObject.layer = LayerMask.NameToLayer("Default");          
             StartCoroutine(Dead_Coroutine());
             Managers.Game.GetMoney(_statInfo.gold);
-            AnimatorChange("DIE", true);
+            //AnimatorChange("DIE", true);
+            PlayAnimTrigger(EAnimState.DIE);
         }
     }
 
@@ -172,7 +173,8 @@ public class Monster : Character
             isDead = true;
             gameObject.layer = LayerMask.NameToLayer("Default");
             StartCoroutine(Dead_Coroutine());
-            AnimatorChange("DIE", true);
+            //AnimatorChange("DIE", true);
+            PlayAnimTrigger(EAnimState.DIE);
         }
     }
 

@@ -60,7 +60,8 @@ public class Hero : Character
     private void Update()
     {
         if (_isMove) return;
-        CheckForEnmies();
+        if(IsServer)
+            CheckForEnmies();
     }
 
     protected virtual void AddBar() 
@@ -88,7 +89,8 @@ public class Hero : Character
     public void Position_Change(HeroHolder holder, Vector2 pos)
     {
         _isMove = true;
-        AnimatorChange("MOVE", false);
+        //AnimatorChange("MOVE", false);
+        SetAnimState(EAnimState.MOVE);
 
         _parentHolder = holder;
 
@@ -125,7 +127,8 @@ public class Hero : Character
             yield return null;
         }
         _isMove = false;
-        AnimatorChange("IDLE", false);
+        //AnimatorChange("IDLE", false);
+        SetAnimState(EAnimState.IDLE);
         _renderer.flipX = true;
     }
     public void AnimAttackSpeedReturn()
@@ -158,23 +161,21 @@ public class Hero : Character
     {
         if (Net_Utils.TryGetSpawnedObject(networkobjectid, out NetworkObject monsterNetworkObject))
         {
-            if (_target.gameObject == monsterNetworkObject.gameObject)
+            if (_heroData.heroAttackType == HeroAttackType.LONGRANGE)
             {
-                if (_heroData.heroAttackType == HeroAttackType.LONGRANGE)
-                {
-                    GameObject go = Managers.Resource.Instantiate($"Effects/LongRangeProjectile");
-                    go.transform.position = transform.position;
-                    go.GetOrAddComponent<Projectile>().Init(monsterNetworkObject.gameObject, this);
-                }
-                else
-                {
-                    GameObject go = Managers.Resource.Instantiate($"Effects/MeleeHitEffect");
-                    go.transform.position = monsterNetworkObject.transform.position;
-                    Managers.Resource.Destroy(go, 2.5f);
-                    AttackDamage(monsterNetworkObject);
-                }
-                AnimatorChange("ATTACK", true);
-            }           
+                GameObject go = Managers.Resource.Instantiate($"Effects/LongRangeProjectile");
+                go.transform.position = transform.position;
+                go.GetOrAddComponent<Projectile>().Init(monsterNetworkObject.gameObject, this);
+            }
+            else
+            {
+                GameObject go = Managers.Resource.Instantiate($"Effects/MeleeHitEffect");
+                go.transform.position = monsterNetworkObject.transform.position;
+                Managers.Resource.Destroy(go, 2.5f);
+                AttackDamage(monsterNetworkObject);
+            }
+            //AnimatorChange("ATTACK", true);
+            PlayAnimTrigger(EAnimState.ATTACK);       
         }       
     }
 
