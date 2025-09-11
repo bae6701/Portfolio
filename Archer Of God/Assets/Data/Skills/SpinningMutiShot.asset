@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 609ec45dfac355943a2890d5cbf78f33, type: 3}
+  m_Name: SpinningMutiShot
+  m_EditorClassIdentifier: 
+  skillName: "\uD68C\uC804 \uC5F0\uC0AC"
+  description: "\uACF5\uC911\uC73C\uB85C \uB6F0\uC5B4\uC62C\uB77C \uD68C\uC804\uD558\uBA70
+    3\uBC1C\uC758 \uD654\uC0B4\uC744 \uBC1C\uC0AC\uD569\uB2C8\uB2E4."
+  skillIcon: {fileID: -8819173771449170585, guid: 6cd580ffb65004d4e847007783685cbd, type: 3}
+  cooldown: 8
+  vfxPrefab: {fileID: 0}
+  animationDuration: 1
+  projectilePrefab: {fileID: 258419113711380476, guid: 912dea8a96e6686458e3668dc608f409, type: 3}
+  jumpForce: 7
+  animationTriggerName: jumpSpin

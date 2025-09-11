@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0288526a26a2738488174086bc681a65, type: 3}
+  m_Name: FrostArrow
+  m_EditorClassIdentifier: 
+  skillName: "\uBE59\uACB0\uC758 \uD654\uC0B4"
+  description: "\uC801\uC744 \uC5BC\uB824 \uBABB\uC6C0\uC9C1\uC774\uAC8C\uD55C\uB2E4"
+  skillIcon: {fileID: -2549851874294915552, guid: a0544c01d742049419fb65f08f15ca42, type: 3}
+  cooldown: 8
+  vfxPrefab: {fileID: 0}
+  projectilePrefab: {fileID: 782122960679012736, guid: 8ebe5cfcf2056a5449ee39dca18bf95c, type: 3}
+  animationTriggerName: FrostArrowShot
