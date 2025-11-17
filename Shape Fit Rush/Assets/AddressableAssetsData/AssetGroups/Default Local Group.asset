@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: d8e655816d30ccb4aa9fc1625a380678
+  m_SerializeEntries:
+  - m_GUID: 057a8bfa7f3a5f342bb34f06000c24b6
+    m_Address: Icon_Coin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08b714fd6535d7f4a8b955a2d7f7c6d9
+    m_Address: '@Managers'
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09e905625e4201741a1734442e59028d
+    m_Address: UI_RewardPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12523de615b457649a15bd03e6b534ed
+    m_Address: Block_Square
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e557bccbec850740b19afad3f1188c9
+    m_Address: InGameUIPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21983e24c132530408f15d267cb9cb98
+    m_Address: VFX_Miss
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 244b83af0b429d2418ff2cbd7e52a457
+    m_Address: StorePanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b3083cb23450d942967003affd071ef
+    m_Address: Icon_Settings.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ec80f2b15ba2da4492f30e25b0d5b87
+    m_Address: VFX_FeverAura
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e68a15082b6a5e4da51f185242476f4
+    m_Address: Icon_Ranking.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57e959cc097701a429d2bdd6b7c7c6a5
+    m_Address: Icon_Start.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6910bb673f819824aaf6cc670037ca5b
+    m_Address: VFX_Perfect
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 695a9a8fa0b56de409919a786d27edbf
+    m_Address: UIPrefabDatabase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79a4b30a9955bcb49b11b5ed083b6e99
+    m_Address: Block_Star
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 849f18b863d6fc0479c369137bb39259
+    m_Address: SkinDatabase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89514284908fa0a49af43c416b1a22b2
+    m_Address: Icon_On-Off.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b1cb29bda2a08146a4e15a4721409df
+    m_Address: Icon_Close.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b8c9e97289ff314eb8ccad3752f1de3
+    m_Address: Icon_SfxOff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c9cfa26abfee488c85f1582747f6a02
+    m_Address: MainGameScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dc845588bc2f1b41b19bea41240bdd3
+    m_Address: Icon_SfxOn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d7806f05d799a342b2238383f2f9021
+    m_Address: BadBlockDatabase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1586904dc327954791898d16af96990
+    m_Address: Block_Triangle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1903df60cbc2964e9b45abc8314a776
+    m_Address: Icon_BgmOff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa41505de11e99a48a285a769b1ffa2b
+    m_Address: Icon_Shop.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac1f9164e15028043849e363db813488
+    m_Address: Icon_Home01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5dffe99575816d448ffd090ba1fc1b2
+    m_Address: Block_Pentagon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8271392a93532e429c78cd02146f01e
+    m_Address: Icon_Time.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb9de8e3473da6841be3bb21737494b2
+    m_Address: UI_StoreItem_Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d42b1dbbdefc94e41a8cf6e0e99f56cc
+    m_Address: Icon_BgmOn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6cdd318d559f894bbb500427b226875
+    m_Address: Icon_Retry02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e81b0ce9168b1b649b7628ccb297660a
+    m_Address: BackgroundDatabase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea534e3f2cbb37d48bf3293834345c09
+    m_Address: UI_SettingsPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea731426e84c4234bb7462dd0648b5e7
+    m_Address: SoundDatabase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee53d686eebcf2c49bdbf68d6a6ad107
+    m_Address: GameSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef48b90275a149f4fa123da70c05ab62
+    m_Address: Icon_Retry01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1b387ee9c8197a48971a7f207599caf
+    m_Address: Icon_Ads.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1f4868a7c018b44a87dfdd71aed8b5f
+    m_Address: Icon_Home02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f205515bfcfdbca448893323a498066b
+    m_Address: Icon_Reward.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffc20557c25981e4bb230cfc4014a76c
+    m_Address: VFX_Good
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 172c733c961537e40b696e9d7e83f0ef, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 10e8144068c803c4b85ec3aefccf7c65, type: 2}
+    - {fileID: 11400000, guid: 1c4c0c2420d53174494d5e46825cd4dc, type: 2}

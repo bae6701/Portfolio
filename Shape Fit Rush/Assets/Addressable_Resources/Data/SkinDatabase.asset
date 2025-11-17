@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56467e1608043f54c9672d4c5438c180, type: 3}
+  m_Name: SkinDatabase
+  m_EditorClassIdentifier: 
+  skins:
+  - skinID: 0
+    displayName: "\uAE30\uBCF8\uBE14\uB7ED"
+    price: 0
+    blockPrefab: {fileID: 2427152797746781210, guid: 12523de615b457649a15bd03e6b534ed, type: 3}
+    frameSprite: {fileID: 21300000, guid: 74cf5d8954c1fa84b83122401770f9d8, type: 3}
+  - skinID: 2
+    displayName: "\uC624\uAC01\uD615"
+    price: 50
+    blockPrefab: {fileID: 2427152797746781210, guid: b5dffe99575816d448ffd090ba1fc1b2, type: 3}
+    frameSprite: {fileID: 21300000, guid: 4d6336b04ae554f47a43f888e6849bd7, type: 3}
+  - skinID: 1
+    displayName: "\uBCC4"
+    price: 100
+    blockPrefab: {fileID: 2427152797746781210, guid: 79a4b30a9955bcb49b11b5ed083b6e99, type: 3}
+    frameSprite: {fileID: 21300000, guid: 025720aa05a04eb4e83201d16e1e0cc3, type: 3}

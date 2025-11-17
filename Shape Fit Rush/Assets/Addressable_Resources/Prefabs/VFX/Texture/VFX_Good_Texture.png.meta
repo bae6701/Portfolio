@@ -1,0 +1,3730 @@
+fileFormatVersion: 2
+guid: 590b3f66de534b4428b67456c9b5a3c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1710803969883085340
+    second: VFX_Good_Texture_0
+  - first:
+      213: 3043410842825992570
+    second: VFX_Good_Texture_1
+  - first:
+      213: -3634422346219157931
+    second: VFX_Good_Texture_2
+  - first:
+      213: 6220009860191268629
+    second: VFX_Good_Texture_3
+  - first:
+      213: 7744849514790955715
+    second: VFX_Good_Texture_4
+  - first:
+      213: -4208056466010745647
+    second: VFX_Good_Texture_5
+  - first:
+      213: -1405274462999434227
+    second: VFX_Good_Texture_6
+  - first:
+      213: 256494505261891454
+    second: VFX_Good_Texture_7
+  - first:
+      213: 7884269422539892844
+    second: VFX_Good_Texture_8
+  - first:
+      213: 1306812184317464471
+    second: VFX_Good_Texture_9
+  - first:
+      213: 2758844784214733630
+    second: VFX_Good_Texture_10
+  - first:
+      213: -8028062968466383644
+    second: VFX_Good_Texture_11
+  - first:
+      213: 1187517647041380054
+    second: VFX_Good_Texture_12
+  - first:
+      213: -3459045489501147042
+    second: VFX_Good_Texture_13
+  - first:
+      213: 4861401974458952214
+    second: VFX_Good_Texture_14
+  - first:
+      213: -12732861011573786
+    second: VFX_Good_Texture_15
+  - first:
+      213: -1013735984369805473
+    second: VFX_Good_Texture_16
+  - first:
+      213: 5779240143873099910
+    second: VFX_Good_Texture_17
+  - first:
+      213: -900218408797869648
+    second: VFX_Good_Texture_18
+  - first:
+      213: 6070159637060623098
+    second: VFX_Good_Texture_19
+  - first:
+      213: -4788235075695380204
+    second: VFX_Good_Texture_20
+  - first:
+      213: 8352897255586065039
+    second: VFX_Good_Texture_21
+  - first:
+      213: 6087352889783792866
+    second: VFX_Good_Texture_22
+  - first:
+      213: -1029086782778922539
+    second: VFX_Good_Texture_23
+  - first:
+      213: -8660708349675316182
+    second: VFX_Good_Texture_24
+  - first:
+      213: -3533800442194553927
+    second: VFX_Good_Texture_25
+  - first:
+      213: -5374975708888879364
+    second: VFX_Good_Texture_26
+  - first:
+      213: 582393330888747596
+    second: VFX_Good_Texture_27
+  - first:
+      213: -7006067687135554227
+    second: VFX_Good_Texture_28
+  - first:
+      213: 8640816626221173533
+    second: VFX_Good_Texture_29
+  - first:
+      213: -1942052561093131483
+    second: VFX_Good_Texture_30
+  - first:
+      213: -687966199615267935
+    second: VFX_Good_Texture_31
+  - first:
+      213: 2777609710597155520
+    second: VFX_Good_Texture_32
+  - first:
+      213: 5285672717724129380
+    second: VFX_Good_Texture_33
+  - first:
+      213: -8475771121447788831
+    second: VFX_Good_Texture_34
+  - first:
+      213: -344272401162942859
+    second: VFX_Good_Texture_35
+  - first:
+      213: -302799255811273915
+    second: VFX_Good_Texture_36
+  - first:
+      213: -3907003636483365024
+    second: VFX_Good_Texture_37
+  - first:
+      213: 631165700863422324
+    second: VFX_Good_Texture_38
+  - first:
+      213: 1546225076677180146
+    second: VFX_Good_Texture_39
+  - first:
+      213: -1794642236757904197
+    second: VFX_Good_Texture_40
+  - first:
+      213: 7718681206401130896
+    second: VFX_Good_Texture_41
+  - first:
+      213: -5898222965471743896
+    second: VFX_Good_Texture_42
+  - first:
+      213: -9131085082202683394
+    second: VFX_Good_Texture_43
+  - first:
+      213: -170368867790107976
+    second: VFX_Good_Texture_44
+  - first:
+      213: -7528001843101909498
+    second: VFX_Good_Texture_45
+  - first:
+      213: -1594261439539706322
+    second: VFX_Good_Texture_46
+  - first:
+      213: 8104835741705886906
+    second: VFX_Good_Texture_47
+  - first:
+      213: 522833654752344338
+    second: VFX_Good_Texture_48
+  - first:
+      213: 3537107179190355094
+    second: VFX_Good_Texture_49
+  - first:
+      213: -1665180880539885906
+    second: VFX_Good_Texture_50
+  - first:
+      213: 495548962680664713
+    second: VFX_Good_Texture_51
+  - first:
+      213: -7448477536079993169
+    second: VFX_Good_Texture_52
+  - first:
+      213: 5954854500038114002
+    second: VFX_Good_Texture_53
+  - first:
+      213: -2910188661462934089
+    second: VFX_Good_Texture_54
+  - first:
+      213: 4105245147097023773
+    second: VFX_Good_Texture_55
+  - first:
+      213: 3590250723061863643
+    second: VFX_Good_Texture_56
+  - first:
+      213: 1853525825125075088
+    second: VFX_Good_Texture_57
+  - first:
+      213: 2087542244080212575
+    second: VFX_Good_Texture_58
+  - first:
+      213: 3212753730208422433
+    second: VFX_Good_Texture_59
+  - first:
+      213: 6945925813751325756
+    second: VFX_Good_Texture_60
+  - first:
+      213: -2632005940165053836
+    second: VFX_Good_Texture_61
+  - first:
+      213: 7336748744850078473
+    second: VFX_Good_Texture_62
+  - first:
+      213: 3954391378664336592
+    second: VFX_Good_Texture_63
+  - first:
+      213: -6478551306555029876
+    second: VFX_Good_Texture_64
+  - first:
+      213: 8176859325426431287
+    second: VFX_Good_Texture_65
+  - first:
+      213: -2216415501492157156
+    second: VFX_Good_Texture_66
+  - first:
+      213: -412835259910648920
+    second: VFX_Good_Texture_67
+  - first:
+      213: 911659330866889955
+    second: VFX_Good_Texture_68
+  - first:
+      213: -8464354674616730671
+    second: VFX_Good_Texture_69
+  - first:
+      213: 1338258089146600924
+    second: VFX_Good_Texture_70
+  - first:
+      213: 3957000818311193948
+    second: VFX_Good_Texture_71
+  - first:
+      213: 7806568830149932488
+    second: VFX_Good_Texture_72
+  - first:
+      213: -976602134473049611
+    second: VFX_Good_Texture_73
+  - first:
+      213: -7464684839172572909
+    second: VFX_Good_Texture_74
+  - first:
+      213: 4536152300337753380
+    second: VFX_Good_Texture_75
+  - first:
+      213: -4935769176970081049
+    second: VFX_Good_Texture_76
+  - first:
+      213: 3387656150178640712
+    second: VFX_Good_Texture_77
+  - first:
+      213: -2446679253275483268
+    second: VFX_Good_Texture_78
+  - first:
+      213: 108615055935226620
+    second: VFX_Good_Texture_79
+  - first:
+      213: -3386046165857030146
+    second: VFX_Good_Texture_80
+  - first:
+      213: -121073354544140166
+    second: VFX_Good_Texture_81
+  - first:
+      213: -5150442445320269823
+    second: VFX_Good_Texture_82
+  - first:
+      213: 1392083090315224434
+    second: VFX_Good_Texture_83
+  - first:
+      213: -652718794544168381
+    second: VFX_Good_Texture_84
+  - first:
+      213: -7802333225060548831
+    second: VFX_Good_Texture_85
+  - first:
+      213: -5209932233822023427
+    second: VFX_Good_Texture_86
+  - first:
+      213: 6437111766786403113
+    second: VFX_Good_Texture_87
+  - first:
+      213: -8758619844166244612
+    second: VFX_Good_Texture_88
+  - first:
+      213: 7176605128024693471
+    second: VFX_Good_Texture_89
+  - first:
+      213: 3182236043578564358
+    second: VFX_Good_Texture_90
+  - first:
+      213: 4231624495056372885
+    second: VFX_Good_Texture_91
+  - first:
+      213: -4766904082702759670
+    second: VFX_Good_Texture_92
+  - first:
+      213: -1647668839104321164
+    second: VFX_Good_Texture_93
+  - first:
+      213: 878556670683999122
+    second: VFX_Good_Texture_94
+  - first:
+      213: 679879143841034972
+    second: VFX_Good_Texture_95
+  - first:
+      213: 2042536228060593523
+    second: VFX_Good_Texture_96
+  - first:
+      213: -8411826045436600409
+    second: VFX_Good_Texture_97
+  - first:
+      213: 8342346578521034876
+    second: VFX_Good_Texture_98
+  - first:
+      213: 1976619471006935086
+    second: VFX_Good_Texture_99
+  - first:
+      213: 7076703662058778733
+    second: VFX_Good_Texture_100
+  - first:
+      213: -5764949943039414243
+    second: VFX_Good_Texture_101
+  - first:
+      213: -2120151606589484578
+    second: VFX_Good_Texture_102
+  - first:
+      213: -5053610332693622981
+    second: VFX_Good_Texture_103
+  - first:
+      213: 650665587565334796
+    second: VFX_Good_Texture_104
+  - first:
+      213: 3590692329003203649
+    second: VFX_Good_Texture_105
+  - first:
+      213: 4229092928890279566
+    second: VFX_Good_Texture_106
+  - first:
+      213: 7209377759738724619
+    second: VFX_Good_Texture_107
+  - first:
+      213: 3615916423660136043
+    second: VFX_Good_Texture_108
+  - first:
+      213: 4854558463811548808
+    second: VFX_Good_Texture_109
+  - first:
+      213: -3175356137636605580
+    second: VFX_Good_Texture_110
+  - first:
+      213: 6914787797477778896
+    second: VFX_Good_Texture_111
+  - first:
+      213: -7402255621523286896
+    second: VFX_Good_Texture_112
+  - first:
+      213: 5717565727274789535
+    second: VFX_Good_Texture_113
+  - first:
+      213: 1706378002023341173
+    second: VFX_Good_Texture_114
+  - first:
+      213: 5880957828832708113
+    second: VFX_Good_Texture_115
+  - first:
+      213: -6616611527897339927
+    second: VFX_Good_Texture_116
+  - first:
+      213: -8329281939771457754
+    second: VFX_Good_Texture_117
+  - first:
+      213: 8909883418945248196
+    second: VFX_Good_Texture_118
+  - first:
+      213: 7283067297593620602
+    second: VFX_Good_Texture_119
+  - first:
+      213: 5134400110692348467
+    second: VFX_Good_Texture_120
+  - first:
+      213: -6145046457765888050
+    second: VFX_Good_Texture_121
+  - first:
+      213: 537093856491834353
+    second: VFX_Good_Texture_122
+  - first:
+      213: -7921741081552358698
+    second: VFX_Good_Texture_123
+  - first:
+      213: -7453006395263091180
+    second: VFX_Good_Texture_124
+  - first:
+      213: 5610827823410528341
+    second: VFX_Good_Texture_125
+  - first:
+      213: -288087445426731005
+    second: VFX_Good_Texture_126
+  - first:
+      213: 832690977187534683
+    second: VFX_Good_Texture_127
+  - first:
+      213: -1576415142973002698
+    second: VFX_Good_Texture_128
+  - first:
+      213: -7242861684278402734
+    second: VFX_Good_Texture_129
+  - first:
+      213: -3776535998201533405
+    second: VFX_Good_Texture_130
+  - first:
+      213: -5978064487282452659
+    second: VFX_Good_Texture_131
+  - first:
+      213: -6255512080671530541
+    second: VFX_Good_Texture_132
+  - first:
+      213: 5467267072382256415
+    second: VFX_Good_Texture_133
+  - first:
+      213: 6273515252106523306
+    second: VFX_Good_Texture_134
+  - first:
+      213: -7259397071651204034
+    second: VFX_Good_Texture_135
+  - first:
+      213: -8001051087654298758
+    second: VFX_Good_Texture_136
+  - first:
+      213: 561316232330906930
+    second: VFX_Good_Texture_137
+  - first:
+      213: -4349845950524971791
+    second: VFX_Good_Texture_138
+  - first:
+      213: 1813069405878376241
+    second: VFX_Good_Texture_139
+  - first:
+      213: 2565697941681147332
+    second: VFX_Good_Texture_140
+  - first:
+      213: 2355973690218274182
+    second: VFX_Good_Texture_141
+  - first:
+      213: -4036935220319970117
+    second: VFX_Good_Texture_142
+  - first:
+      213: 5319229884680584082
+    second: VFX_Good_Texture_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Good_Texture_0
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1053
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e56ac68ad00248e0800000000000000
+      internalID: -1710803969883085340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1040
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a792730790e5c3a20800000000000000
+      internalID: 3043410842825992570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1010
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568dd1d120ff8dc0800000000000000
+      internalID: -3634422346219157931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa028430ae15650800000000000000
+      internalID: 6220009860191268629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 988
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caa8f7899b3b7b60800000000000000
+      internalID: 7744849514790955715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 981
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4d4ac70faf995c0800000000000000
+      internalID: -4208056466010745647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_6
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1003
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cadf442567f7ce0800000000000000
+      internalID: -1405274462999434227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1003
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f79f0c4604f8300800000000000000
+      internalID: 256494505261891454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 985
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68e6f3644d8a6d60800000000000000
+      internalID: 7884269422539892844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 975
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f056202cab22210800000000000000
+      internalID: 1306812184317464471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 985
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33fe89d6b2694620800000000000000
+      internalID: 2758844784214733630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecd712c347969090800000000000000
+      internalID: -8028062968466383644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 994
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deb86c1209ea7010800000000000000
+      internalID: 1187517647041380054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 984
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50fd5044700fffc0800000000000000
+      internalID: -3459045489501147042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 986
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a2206c65b277340800000000000000
+      internalID: 4861401974458952214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 981
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e34e66c783c2dff0800000000000000
+      internalID: -12732861011573786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 977
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f575b934e7c7ee1f0800000000000000
+      internalID: -1013735984369805473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_17
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 982
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688cb378a4cf33050800000000000000
+      internalID: 5779240143873099910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 177
+        width: 874
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e5537028c183f0800000000000000
+      internalID: -900218408797869648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_19
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 953
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa99e0670a8d3450800000000000000
+      internalID: 6070159637060623098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 979
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4197c1c5195cc8db0800000000000000
+      internalID: -4788235075695380204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aea846cc37be370800000000000000
+      internalID: 8352897255586065039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_22
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 968
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b20a733f9a7450800000000000000
+      internalID: 6087352889783792866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_23
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 963
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a96df503f7b1f0800000000000000
+      internalID: -1029086782778922539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_24
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 963
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cd75274abfec780800000000000000
+      internalID: -8660708349675316182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 968
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b310ef783b65fec0800000000000000
+      internalID: -3533800442194553927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 961
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe235312104865b0800000000000000
+      internalID: -5374975708888879364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_27
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 969
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a2e2716a3151800800000000000000
+      internalID: 582393330888747596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_28
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 965
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4551fbee8275ce90800000000000000
+      internalID: -7006067687135554227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 859
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bc337c0f85ae770800000000000000
+      internalID: 8640816626221173533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 802
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52308e03c717c05e0800000000000000
+      internalID: -1942052561093131483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 789
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abd47ee26ad376f0800000000000000
+      internalID: -687966199615267935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 759
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caa1dcb05d0c8620800000000000000
+      internalID: 2777609710597155520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 750
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4689be2055b7a5940800000000000000
+      internalID: 5285672717724129380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 730
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee17945213006a80800000000000000
+      internalID: -8475771121447788831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_35
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 734
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57646be3316e83bf0800000000000000
+      internalID: -344272401162942859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 721
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bcd1f5ead3ccbf0800000000000000
+      internalID: -302799255811273915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 727
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067ef3f84e887c9c0800000000000000
+      internalID: -3907003636483365024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 720
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fef526cd952c800800000000000000
+      internalID: 631165700863422324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 686
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faf426d38b457510800000000000000
+      internalID: 1546225076677180146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 703
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4f123e4662817e0800000000000000
+      internalID: -1794642236757904197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e50279a34e1b60800000000000000
+      internalID: 7718681206401130896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 685
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607109867d452ea0800000000000000
+      internalID: -5898222965471743896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_43
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 676
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7c07d0f7ed74180800000000000000
+      internalID: -9131085082202683394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 673
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bac59ada6ab2adf0800000000000000
+      internalID: -170368867790107976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 677
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ebc61753a278790800000000000000
+      internalID: -7528001843101909498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 662
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e260221eaab00e9e0800000000000000
+      internalID: -1594261439539706322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcd4437a292a7070800000000000000
+      internalID: 8104835741705886906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 653
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219f12c507a714700800000000000000
+      internalID: 522833654752344338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 652
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69400243d34561130800000000000000
+      internalID: 3537107179190355094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_50
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 652
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaed5a8cfc614e8e0800000000000000
+      internalID: -1665180880539885906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 627
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f461f72b80e600800000000000000
+      internalID: 495548962680664713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 607
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6a9780521b1a890800000000000000
+      internalID: -7448477536079993169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 607
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da78eb1e94e3a250800000000000000
+      internalID: 5954854500038114002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_54
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 619
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd12cc4deec97d0800000000000000
+      internalID: -2910188661462934089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 614
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d154d94f5b2c8f830800000000000000
+      internalID: 4105245147097023773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 616
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd411bab20223d130800000000000000
+      internalID: 3590250723061863643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 596
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098c794eaeb09b910800000000000000
+      internalID: 1853525825125075088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 571
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ad5085c9078fc10800000000000000
+      internalID: 2087542244080212575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 589
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a52e7ee7ef59c20800000000000000
+      internalID: 3212753730208422433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_60
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 576
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c342ddcf9b2e46060800000000000000
+      internalID: 6945925813751325756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_61
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4727eb9da8c397bd0800000000000000
+      internalID: -2632005940165053836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_62
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 582
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bf4179c1e51d560800000000000000
+      internalID: 7336748744850078473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 572
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dca724f102d0e630800000000000000
+      internalID: 3954391378664336592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 523
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8605a959ef8716a0800000000000000
+      internalID: -6478551306555029876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 534
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735f16ecb3a0a7170800000000000000
+      internalID: 8176859325426431287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_66
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 533
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1504ee28d5bd31e0800000000000000
+      internalID: -2216415501492157156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_67
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 523
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab0546b480554af0800000000000000
+      internalID: -412835259910648920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_68
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 510
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4cd7cc45dd6ac00800000000000000
+      internalID: 911659330866889955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_69
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 524
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db7d8ef442988a80800000000000000
+      internalID: -8464354674616730671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 467
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd406544a2729210800000000000000
+      internalID: 1338258089146600924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_71
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 464
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556e5777471ae630800000000000000
+      internalID: 3957000818311193948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_72
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 452
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c539b37df0865c60800000000000000
+      internalID: 7806568830149932488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 445
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f978df68896272f0800000000000000
+      internalID: -976602134473049611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_74
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 445
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319ffd830bc186890800000000000000
+      internalID: -7464684839172572909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_75
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 403
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de3bccb76a3fe30800000000000000
+      internalID: 4536152300337753380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_76
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec40699510a08bb0800000000000000
+      internalID: -4935769176970081049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_77
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 248
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843b09ce15f530f20800000000000000
+      internalID: 3387656150178640712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_78
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 269
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c736235ae26ab0ed0800000000000000
+      internalID: -2446679253275483268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_79
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 262
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2474261d0e18100800000000000000
+      internalID: 108615055935226620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 261
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa403c3f85201d0800000000000000
+      internalID: -3386046165857030146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_81
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 262
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b1aeec6cd15ef0800000000000000
+      internalID: -121073354544140166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_82
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 269
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100579a52e3f588b0800000000000000
+      internalID: -5150442445320269823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_83
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 269
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2752110f13ca15310800000000000000
+      internalID: 1392083090315224434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_84
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 264
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34249f0f6b311f6f0800000000000000
+      internalID: -652718794544168381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_85
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fb905354b88b390800000000000000
+      internalID: -7802333225060548831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_86
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 266
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05e2b9c3a92b7b0800000000000000
+      internalID: -5209932233822023427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_87
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 269
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b6aceeb07355950800000000000000
+      internalID: 6437111766786403113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_88
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a8c928a1237680800000000000000
+      internalID: -8758619844166244612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_89
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 255
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda9825375c689360800000000000000
+      internalID: 7176605128024693471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_90
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 270
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fd1f842d2992c20800000000000000
+      internalID: 3182236043578564358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_91
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 269
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5944da2ee00c9ba30800000000000000
+      internalID: 4231624495056372885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_92
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 268
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0984203efd88ddb0800000000000000
+      internalID: -4766904082702759670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_93
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479e4b9abed4229e0800000000000000
+      internalID: -1647668839104321164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_94
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b6b2f13a2413c00800000000000000
+      internalID: 878556670683999122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_95
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 269
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd277daaa7a6f6900800000000000000
+      internalID: 679879143841034972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_96
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 268
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dfa6aa0eb885c10800000000000000
+      internalID: 2042536228060593523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_97
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 268
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af5f5987c0334b80800000000000000
+      internalID: -8411826045436600409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_98
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7011f57308f5c370800000000000000
+      internalID: 8342346578521034876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_99
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 253
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e282d71bfec5e6b10800000000000000
+      internalID: 1976619471006935086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_100
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6038b59c70853260800000000000000
+      internalID: 7076703662058778733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_101
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 255
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d103a312298ceffa0800000000000000
+      internalID: -5764949943039414243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_102
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 260
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1924bc855b392e0800000000000000
+      internalID: -2120151606589484578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_103
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 260
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f8d867d28fdd9b0800000000000000
+      internalID: -5053610332693622981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_104
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 257
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01176e87e0a70900800000000000000
+      internalID: 650665587565334796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_105
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cb4ff16a3b4d130800000000000000
+      internalID: 3590692329003203649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_106
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 254
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e861f94bc91c0ba30800000000000000
+      internalID: 4229092928890279566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 261
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0104d420eadc0460800000000000000
+      internalID: 7209377759738724619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_108
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 255
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6663c154d05e2230800000000000000
+      internalID: 3615916423660136043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_109
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8867ad8c33bde5340800000000000000
+      internalID: 4854558463811548808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_110
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47150d4aa6edee3d0800000000000000
+      internalID: -3175356137636605580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_111
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 250
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d56edd9dd246ff50800000000000000
+      internalID: 6914787797477778896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_112
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 250
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09457762bb7e54990800000000000000
+      internalID: -7402255621523286896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_113
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 254
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a692a6cbfd85f40800000000000000
+      internalID: 5717565727274789535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_114
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 252
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c542780c54ea710800000000000000
+      internalID: 1706378002023341173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_115
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 248
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11640a69cfb5d9150800000000000000
+      internalID: 5880957828832708113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_116
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 248
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ace62fd21d24a0800000000000000
+      internalID: -6616611527897339927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_117
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 248
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f78d9c432786c80800000000000000
+      internalID: -8329281939771457754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_118
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbdf5053c346ab70800000000000000
+      internalID: 8909883418945248196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_119
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 249
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f45cae17a21560800000000000000
+      internalID: 7283067297593620602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_120
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3323b8c82bd014740800000000000000
+      internalID: 5134400110692348467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_121
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 237
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf7794fdc868baa0800000000000000
+      internalID: -6145046457765888050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_122
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb8d3f4404247700800000000000000
+      internalID: 537093856491834353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_123
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 243
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2f37f1572501290800000000000000
+      internalID: -7921741081552358698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_124
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 245
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ef0a5db2a919890800000000000000
+      internalID: -7453006395263091180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_125
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 243
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550434e8d2aaddd40800000000000000
+      internalID: 5610827823410528341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_126
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 231
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3080717aef1800cf0800000000000000
+      internalID: -288087445426731005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_127
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 222
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b579fee28005e8b00800000000000000
+      internalID: 832690977187534683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_128
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c2c8897c27f1ae0800000000000000
+      internalID: -1576415142973002698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_129
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516c472caf2c7b90800000000000000
+      internalID: -7242861684278402734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_130
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce8b1c48c079bc0800000000000000
+      internalID: -3776535998201533405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_131
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 229
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47d62f9506a90da0800000000000000
+      internalID: -5978064487282452659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_132
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 230
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1a86fd7e4ff29a0800000000000000
+      internalID: -6255512080671530541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_133
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c88d7f62afdb40800000000000000
+      internalID: 5467267072382256415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_134
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2fdce12e0001750800000000000000
+      internalID: 6273515252106523306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_135
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 215
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3418b443d0714b90800000000000000
+      internalID: -7259397071651204034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_136
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bdc9a5d6e86f090800000000000000
+      internalID: -8001051087654298758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_137
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 210
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d8ebaa3223ac700800000000000000
+      internalID: 561316232330906930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_138
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4a94b872e32a3c0800000000000000
+      internalID: -4349845950524971791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_139
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 208
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1375282c401592910800000000000000
+      internalID: 1813069405878376241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_140
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 195
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd0bde2fa03b9320800000000000000
+      internalID: 2565697941681147332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_141
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d50a9b69912b020800000000000000
+      internalID: 2355973690218274182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_142
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc90934ecce9f7c0800000000000000
+      internalID: -4036935220319970117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Good_Texture_143
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 161
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b370bc563b1d940800000000000000
+      internalID: 5319229884680584082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

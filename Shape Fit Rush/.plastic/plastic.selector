@@ -1,0 +1,4 @@
+repository "Shape Fit Rush/Shape Fit Rush@14568923810562@cloud"
+  path "/"
+    br "/main"
+    co "/main"

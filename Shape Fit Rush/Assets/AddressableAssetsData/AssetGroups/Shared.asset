@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared
+  m_GUID: f68227b0be29ff7499ba95383281eb37
+  m_SerializeEntries:
+  - m_GUID: 3a46a08eb7fbb6641978f20dd54897f8
+    m_Address: Assets/00.Scripts/Data/ID/PopupID_Reward.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46284be271777324e9f8dda0b8e6266d
+    m_Address: Assets/Addressable_Resources/Fonts/Poppins/Poppins-Bold SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56848d932aa8a1d45949d2aae71c5d95
+    m_Address: Assets/Addressable_Resources/Sprites/UI/Item_Card_BG01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68e6db2ebdc24f95958faec2be5558d6
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74cf5d8954c1fa84b83122401770f9d8
+    m_Address: Assets/Addressable_Resources/Sprites/InGame/Frame/Frame_Square.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84e5292ff5ecaac48b85f598eb28a481
+    m_Address: Assets/00.Scripts/Data/ID/PopupID_Store.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8849486e299c4f84781a1e4cb63fcc07
+    m_Address: Assets/Addressable_Resources/Sprites/UI/Panel_BG01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a97c105638bdf8b4a8650670310a4cd3
+    m_Address: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6f8320f28a174043b55bf85a217bdb0
+    m_Address: Assets/Addressable_Resources/Fonts/Poppins/Poppins-Regular SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e01e8b96cc127074a94f3e603d1efd64
+    m_Address: Assets/Addressable_Resources/Sprites/UI/Item_Preview_BG01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0dff3956b6411e4ead25af6207b1a84
+    m_Address: Assets/Addressable_Resources/Fonts/Jalnan2 SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e260cfa7296ee7642b167f1eb5be5023
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8b921b89ed6cdf468af2184f7b2e7aa
+    m_Address: Assets/Addressable_Resources/Sprites/UI/UI_Button_Base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec78e291fc905ea4d9c3e816c0ba0774
+    m_Address: Assets/00.Scripts/Data/ID/PopupID_Settings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee7412a3a27d64d41ab6c722b30bd390
+    m_Address: Assets/00.Scripts/Data/ID/PopupID_Ranking.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 172c733c961537e40b696e9d7e83f0ef, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 876a38209b3c98e40a84a4cec9067f58, type: 2}
+    - {fileID: 11400000, guid: 75fe0966fb00e4545b849296b718d1c3, type: 2}

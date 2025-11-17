@@ -1,0 +1,2796 @@
+fileFormatVersion: 2
+guid: 87fd45ef15206af40b2ea335e4153ebf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6432432586002881181
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_0
+  - first:
+      213: 8811882551264833844
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_1
+  - first:
+      213: 3818752135503328452
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_2
+  - first:
+      213: 2931039706090103110
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_3
+  - first:
+      213: 1095825860771552989
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_4
+  - first:
+      213: 104564895343740885
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_5
+  - first:
+      213: 5336363048484571683
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_6
+  - first:
+      213: 3541689227740182896
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_7
+  - first:
+      213: -4950360803658054614
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_8
+  - first:
+      213: -2188097154209815043
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_9
+  - first:
+      213: 5777707970600219324
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_10
+  - first:
+      213: 2718686420315224941
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_11
+  - first:
+      213: 7119563715878512268
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_12
+  - first:
+      213: -2811682779244900343
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_13
+  - first:
+      213: -7769083320433586166
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_14
+  - first:
+      213: -3490343440370159033
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_15
+  - first:
+      213: 3311508730374816958
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_16
+  - first:
+      213: -134365327271157701
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_17
+  - first:
+      213: 3894326150390617517
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_18
+  - first:
+      213: 5375843064393035930
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_19
+  - first:
+      213: 4214890257436423356
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_20
+  - first:
+      213: 4640140030572037474
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_21
+  - first:
+      213: -5947035832277165329
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_22
+  - first:
+      213: -7612578081400355051
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_23
+  - first:
+      213: 6129844945137064625
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_24
+  - first:
+      213: 5163617233897345206
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_25
+  - first:
+      213: -8053084429686794254
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_26
+  - first:
+      213: -1768086389186383579
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_27
+  - first:
+      213: -7099135957945346364
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_28
+  - first:
+      213: 2101106353725967760
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_29
+  - first:
+      213: 6510870944810636935
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_30
+  - first:
+      213: -990427452553882377
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_31
+  - first:
+      213: -4680201960334326002
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_32
+  - first:
+      213: -2623553099915871825
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_33
+  - first:
+      213: -5821909162503120631
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_34
+  - first:
+      213: 2705016867428524489
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_35
+  - first:
+      213: 7787370812615894656
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_36
+  - first:
+      213: -7993030308808792532
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_37
+  - first:
+      213: 9115039947457222815
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_38
+  - first:
+      213: 6347527221805561763
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_39
+  - first:
+      213: 7402349662225345573
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_40
+  - first:
+      213: -3732241083094868956
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_41
+  - first:
+      213: -3027711383025026870
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_42
+  - first:
+      213: 6707817248196419379
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_43
+  - first:
+      213: 6506058202369198900
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_44
+  - first:
+      213: -691762876335123580
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_45
+  - first:
+      213: 6772808067743478542
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_46
+  - first:
+      213: -1487508455756225651
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_47
+  - first:
+      213: 6196666712169976206
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_48
+  - first:
+      213: -1035279827111734130
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_49
+  - first:
+      213: 2357540781007105453
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_50
+  - first:
+      213: -8873057156189600701
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_51
+  - first:
+      213: -2318545323377575950
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_52
+  - first:
+      213: 9058430228157831542
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_53
+  - first:
+      213: -5269229599901820990
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_54
+  - first:
+      213: -7950937234810012383
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_55
+  - first:
+      213: 3409652342040296256
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_56
+  - first:
+      213: 9000220521409654568
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_57
+  - first:
+      213: -3863852485247311752
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_58
+  - first:
+      213: -6275358089741023475
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_59
+  - first:
+      213: -3846174640600413274
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_60
+  - first:
+      213: -8138741443033567370
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_61
+  - first:
+      213: 4883483845787894454
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_62
+  - first:
+      213: -2158753143883438800
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_63
+  - first:
+      213: -4341603150080803814
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_64
+  - first:
+      213: 7661462142336735434
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_65
+  - first:
+      213: -7846693253928730048
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_66
+  - first:
+      213: 1520887197240771236
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_67
+  - first:
+      213: 3384464358993793049
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_68
+  - first:
+      213: 2220698227497666682
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_69
+  - first:
+      213: 8838064347683742589
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_70
+  - first:
+      213: -284068222792128237
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_71
+  - first:
+      213: -4501089594161868474
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_72
+  - first:
+      213: 8370685716708912712
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_73
+  - first:
+      213: 4260550008278212924
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_74
+  - first:
+      213: 1615482437037012034
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_75
+  - first:
+      213: 6811278829320130690
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_76
+  - first:
+      213: 711527171552412087
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_77
+  - first:
+      213: -2436319437465687622
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_78
+  - first:
+      213: -4025086307785187550
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_79
+  - first:
+      213: 5353650973302886243
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_80
+  - first:
+      213: -6702799384668774867
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_81
+  - first:
+      213: 5584419694409000516
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_82
+  - first:
+      213: 6814352802515599227
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_83
+  - first:
+      213: -4642948220682147915
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_84
+  - first:
+      213: -7789645798656208543
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_85
+  - first:
+      213: -1858246476047789028
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_86
+  - first:
+      213: -6864084055473886074
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_87
+  - first:
+      213: -6448159980918951611
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_88
+  - first:
+      213: -4671324455490455030
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_89
+  - first:
+      213: -224508300889831399
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_90
+  - first:
+      213: -403134858822005130
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_91
+  - first:
+      213: -4152600428436821966
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_92
+  - first:
+      213: 2828366440362956091
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_93
+  - first:
+      213: 2981712693192603474
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_94
+  - first:
+      213: 6614934945440961665
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_95
+  - first:
+      213: -9220498985870278368
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_96
+  - first:
+      213: -3997712143692534874
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_97
+  - first:
+      213: 867238916208606644
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_98
+  - first:
+      213: 987391831083368188
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_99
+  - first:
+      213: -4528405659728093374
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_100
+  - first:
+      213: -6943888499479025490
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_101
+  - first:
+      213: -130635365238876283
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_102
+  - first:
+      213: 5497712451712061015
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_103
+  - first:
+      213: 2373205703682304828
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_104
+  - first:
+      213: -5277512588318202414
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_105
+  - first:
+      213: 5783867958561447437
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_106
+  - first:
+      213: 8543905776148829609
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_107
+  - first:
+      213: -4172056820064154156
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_108
+  - first:
+      213: -419419460578826970
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_109
+  - first:
+      213: 7102773003324474293
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_110
+  - first:
+      213: -4955933153113389091
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_111
+  - first:
+      213: -5792255332598964406
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_112
+  - first:
+      213: 4631999992930657378
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_113
+  - first:
+      213: -76794721238734479
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_114
+  - first:
+      213: -693953101665599918
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_115
+  - first:
+      213: 3505173886382479791
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_116
+  - first:
+      213: -7691452337933666740
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_117
+  - first:
+      213: -482915101128959390
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_118
+  - first:
+      213: -195257332093574239
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_119
+  - first:
+      213: -4853563864901421453
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_120
+  - first:
+      213: 2198838969094564721
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_121
+  - first:
+      213: 7002821479723471831
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_122
+  - first:
+      213: 8739377821828060803
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_123
+  - first:
+      213: -6494413526292635350
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_124
+  - first:
+      213: -1073609612038171414
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_125
+  - first:
+      213: 3264502958666255062
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_126
+  - first:
+      213: -2704106405344141508
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_127
+  - first:
+      213: -5028382994096603057
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_128
+  - first:
+      213: -1046372680366994513
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_129
+  - first:
+      213: -2126123509848859703
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_130
+  - first:
+      213: 5258117384395807926
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_131
+  - first:
+      213: 3374368028802042325
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_132
+  - first:
+      213: -7487405179979010771
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_133
+  - first:
+      213: -465914213189981447
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_134
+  - first:
+      213: -6511037021728391827
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_135
+  - first:
+      213: -3068401427114498078
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_136
+  - first:
+      213: 3970274981397931901
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_137
+  - first:
+      213: 8347641855456108555
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_138
+  - first:
+      213: 1888886157196659669
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_139
+  - first:
+      213: 1850081697159481231
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_140
+  - first:
+      213: -1985458624482028306
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_141
+  - first:
+      213: -8337855969418067536
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_142
+  - first:
+      213: -7993114659863636476
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_143
+  - first:
+      213: 594222284774833400
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_144
+  - first:
+      213: -7804988034563703789
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_145
+  - first:
+      213: 1826351754795246458
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_146
+  - first:
+      213: -7646202207291944799
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_147
+  - first:
+      213: 5545686332241000897
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_148
+  - first:
+      213: -581347377301732749
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_149
+  - first:
+      213: 245237899672622833
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_150
+  - first:
+      213: 8910365375147995020
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_151
+  - first:
+      213: 5236709225026435941
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_152
+  - first:
+      213: -6947253934609314556
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_153
+  - first:
+      213: 9125938424486998298
+    second: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 646
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a59524b57944950800000000000000
+      internalID: 6432432586002881181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 693
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4317a963e781a4a70800000000000000
+      internalID: 8811882551264833844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 681
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4b0f9a5deeef430800000000000000
+      internalID: 3818752135503328452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 632
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641e01855152da820800000000000000
+      internalID: 2931039706090103110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 553
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde99fe70d7253f00800000000000000
+      internalID: 1095825860771552989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 543
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d780f2e73d737100800000000000000
+      internalID: 104564895343740885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 583
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a81795be19e0a40800000000000000
+      internalID: 5336363048484571683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 408
+        width: 228
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079f744869b962130800000000000000
+      internalID: 3541689227740182896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 624
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24c1f3c319cc4bb0800000000000000
+      internalID: -4950360803658054614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 586
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e7453b3152a1e0800000000000000
+      internalID: -2188097154209815043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 547
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b319225e6bab520800000000000000
+      internalID: 2718686420315224941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 498
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e2b08a75cdc260800000000000000
+      internalID: 7119563715878512268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 562
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9005602c865eaf8d0800000000000000
+      internalID: -2811682779244900343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 542
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00d427e1ebae2490800000000000000
+      internalID: -7769083320433586166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 512
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7423f94322fcf8fc0800000000000000
+      internalID: -3490343440370159033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 474
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4889825a7d4fd20800000000000000
+      internalID: 3311508730374816958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 490
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30afdd5273a22ef0800000000000000
+      internalID: -134365327271157701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 390
+        width: 158
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90f46dd8c4da9a40800000000000000
+      internalID: 5375843064393035930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 531
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2650156f5c6156040800000000000000
+      internalID: 4640140030572037474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 497
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea99965b62e77da0800000000000000
+      internalID: -5947035832277165329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 449
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51705317190ba5690800000000000000
+      internalID: -7612578081400355051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 493
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05986248ad8a740800000000000000
+      internalID: 5163617233897345206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 453
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61776857dca7d90800000000000000
+      internalID: -7099135957945346364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 409
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d0729b811a82d10800000000000000
+      internalID: 2101106353725967760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 401
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f41bbaba7b4142f0800000000000000
+      internalID: -990427452553882377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 195
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078f252d159c0fb0800000000000000
+      internalID: -4680201960334326002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 407
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086273cae7c421c60800000000000000
+      internalID: 7787370812615894656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 379
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c266584784d031190800000000000000
+      internalID: -7993030308808792532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 337
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98dea5e9802f7e70800000000000000
+      internalID: 9115039947457222815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 389
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cac286ccd6ab660800000000000000
+      internalID: 7402349662225345573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 380
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cd20a528a643cc0800000000000000
+      internalID: -3732241083094868956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 381
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f5cf86f34f61d50800000000000000
+      internalID: 6707817248196419379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 324
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b8b38e6792a4a50800000000000000
+      internalID: 6506058202369198900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 382
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4831e3f345d5666f0800000000000000
+      internalID: -691762876335123580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 225
+        width: 220
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03ffb1cd09ddfd50800000000000000
+      internalID: 6772808067743478542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 373
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a24ec0fe4b5be0800000000000000
+      internalID: -1487508455756225651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 354
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadec6b79daa7b020800000000000000
+      internalID: 2357540781007105453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 356
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67912048c4206bd70800000000000000
+      internalID: 9058430228157831542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 326
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12df8b7f5b898a190800000000000000
+      internalID: -7950937234810012383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 342
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fadc601e437ec70800000000000000
+      internalID: 9000220521409654568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 339
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07cc9ec01379e8a0800000000000000
+      internalID: -6275358089741023475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 315
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab85e2da84af9ac0800000000000000
+      internalID: -3846174640600413274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 306
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c77b310f68fb3c0800000000000000
+      internalID: -4341603150080803814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 279
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042cf122f02fa1390800000000000000
+      internalID: -7846693253928730048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 310
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78865ba54181de10800000000000000
+      internalID: 2220698227497666682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 280
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2443970a7b85b6610800000000000000
+      internalID: 1615482437037012034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 275
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b18b64513adfd900800000000000000
+      internalID: 711527171552412087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 241
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f8423023dfb4a40800000000000000
+      internalID: 5353650973302886243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 228
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1619bfcda6e95e390800000000000000
+      internalID: -7789645798656208543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 290
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14dc0aecae2636e0800000000000000
+      internalID: -1858246476047789028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 254
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541bf6249a88386a0800000000000000
+      internalID: -6448159980918951611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 243
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a75ef482f1c2fb0800000000000000
+      internalID: -4671324455490455030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 256
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918c55cc3e262ecf0800000000000000
+      internalID: -224508300889831399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 170
+        width: 124
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e46575bf6c76af0800000000000000
+      internalID: -403134858822005130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 211
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35587cca40604720800000000000000
+      internalID: 2828366440362956091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 253
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abe0f07cf54588c0800000000000000
+      internalID: -3997712143692534874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 263
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd3200133d090c00800000000000000
+      internalID: 867238916208606644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 252
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd9058b0fd721c0800000000000000
+      internalID: -4528405659728093374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 221
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8e1a4333a52af90800000000000000
+      internalID: -6943888499479025490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 220
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b2ae283025fe020800000000000000
+      internalID: 2373205703682304828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 247
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d524ab234282c6b0800000000000000
+      internalID: -5277512588318202414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 225
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd84593d60e916c0800000000000000
+      internalID: -4172056820064154156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 169
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2646e32c37b284040800000000000000
+      internalID: 4631999992930657378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 99
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa99dc51411e4a030800000000000000
+      internalID: 3505173886382479791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 182
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46bd9689d8724590800000000000000
+      internalID: -7691452337933666740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 175
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a598c26475c49f0800000000000000
+      internalID: -482915101128959390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 185
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3a5c0bd7e4a4df0800000000000000
+      internalID: -195257332093574239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 185
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376f0e1516da4acb0800000000000000
+      internalID: -4853563864901421453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 182
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bea277468d38e10800000000000000
+      internalID: 2198838969094564721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 177
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3861df363d1884970800000000000000
+      internalID: 8739377821828060803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 191
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da83831528dd4d20800000000000000
+      internalID: 3264502958666255062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 168
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f9a922d85197ad0800000000000000
+      internalID: -2704106405344141508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 162
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40c142fe48973ab0800000000000000
+      internalID: -5028382994096603057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 137
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab4d0457998a71f0800000000000000
+      internalID: -1046372680366994513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 123
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1ad6beed7e72e0800000000000000
+      internalID: -2126123509848859703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 93
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcd73407e598f840800000000000000
+      internalID: 5258117384395807926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 10
+        width: 149
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d6ee5a8a4671890800000000000000
+      internalID: -7487405179979010771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 103
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa610bdd7db889f0800000000000000
+      internalID: -465914213189981447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 118
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7e98cb829da65d0800000000000000
+      internalID: -3068401427114498078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 139
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7728d66f00491730800000000000000
+      internalID: 3970274981397931901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 89
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4538386eb3274e0800000000000000
+      internalID: -1985458624482028306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 47
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14772fb2cf94c80800000000000000
+      internalID: -8337855969418067536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 37
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4065cd1f090c21190800000000000000
+      internalID: -7993114659863636476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 47
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcff99050a1f3800800000000000000
+      internalID: 594222284774833400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 72
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf7a33cbc1fa390800000000000000
+      internalID: -7804988034563703789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_147
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 64
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a05e819a9b33e590800000000000000
+      internalID: -7646202207291944799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_148
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 64
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b6fc365c36fc40800000000000000
+      internalID: 5545686332241000897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_149
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 28
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37243d4f3a3aee7f0800000000000000
+      internalID: -581347377301732749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_150
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 4
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f613770292476300800000000000000
+      internalID: 245237899672622833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_151
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fe2ac791af7ab70800000000000000
+      internalID: 8910365375147995020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_152
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b36bd7b478ca840800000000000000
+      internalID: 5236709225026435941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_153
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 21
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d4d27ca55669f90800000000000000
+      internalID: -6947253934609314556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_154
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11b2a155a8d5ae70800000000000000
+      internalID: 9125938424486998298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e28fc18dc5b9f6c40bcabdac2e1bf3f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_0: 6432432586002881181
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_1: 8811882551264833844
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_10: 5777707970600219324
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_100: -4528405659728093374
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_101: -6943888499479025490
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_102: -130635365238876283
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_103: 5497712451712061015
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_104: 2373205703682304828
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_105: -5277512588318202414
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_106: 5783867958561447437
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_107: 8543905776148829609
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_108: -4172056820064154156
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_109: -419419460578826970
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_11: 2718686420315224941
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_110: 7102773003324474293
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_111: -4955933153113389091
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_112: -5792255332598964406
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_113: 4631999992930657378
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_114: -76794721238734479
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_115: -693953101665599918
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_116: 3505173886382479791
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_117: -7691452337933666740
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_118: -482915101128959390
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_119: -195257332093574239
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_12: 7119563715878512268
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_120: -4853563864901421453
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_121: 2198838969094564721
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_122: 7002821479723471831
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_123: 8739377821828060803
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_124: -6494413526292635350
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_125: -1073609612038171414
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_126: 3264502958666255062
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_127: -2704106405344141508
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_128: -5028382994096603057
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_129: -1046372680366994513
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_13: -2811682779244900343
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_130: -2126123509848859703
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_131: 5258117384395807926
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_132: 3374368028802042325
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_133: -7487405179979010771
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_134: -465914213189981447
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_135: -6511037021728391827
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_136: -3068401427114498078
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_137: 3970274981397931901
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_138: 8347641855456108555
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_139: 1888886157196659669
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_14: -7769083320433586166
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_140: 1850081697159481231
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_141: -1985458624482028306
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_142: -8337855969418067536
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_143: -7993114659863636476
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_144: 594222284774833400
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_145: -7804988034563703789
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_146: 1826351754795246458
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_147: -7646202207291944799
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_148: 5545686332241000897
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_149: -581347377301732749
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_15: -3490343440370159033
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_150: 245237899672622833
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_151: 8910365375147995020
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_152: 5236709225026435941
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_153: -6947253934609314556
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_154: 9125938424486998298
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_16: 3311508730374816958
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_17: -134365327271157701
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_18: 3894326150390617517
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_19: 5375843064393035930
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_2: 3818752135503328452
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_20: 4214890257436423356
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_21: 4640140030572037474
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_22: -5947035832277165329
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_23: -7612578081400355051
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_24: 6129844945137064625
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_25: 5163617233897345206
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_26: -8053084429686794254
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_27: -1768086389186383579
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_28: -7099135957945346364
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_29: 2101106353725967760
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_3: 2931039706090103110
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_30: 6510870944810636935
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_31: -990427452553882377
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_32: -4680201960334326002
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_33: -2623553099915871825
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_34: -5821909162503120631
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_35: 2705016867428524489
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_36: 7787370812615894656
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_37: -7993030308808792532
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_38: 9115039947457222815
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_39: 6347527221805561763
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_4: 1095825860771552989
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_40: 7402349662225345573
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_41: -3732241083094868956
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_42: -3027711383025026870
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_43: 6707817248196419379
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_44: 6506058202369198900
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_45: -691762876335123580
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_46: 6772808067743478542
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_47: -1487508455756225651
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_48: 6196666712169976206
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_49: -1035279827111734130
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_5: 104564895343740885
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_50: 2357540781007105453
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_51: -8873057156189600701
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_52: -2318545323377575950
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_53: 9058430228157831542
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_54: -5269229599901820990
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_55: -7950937234810012383
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_56: 3409652342040296256
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_57: 9000220521409654568
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_58: -3863852485247311752
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_59: -6275358089741023475
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_6: 5336363048484571683
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_60: -3846174640600413274
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_61: -8138741443033567370
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_62: 4883483845787894454
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_63: -2158753143883438800
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_64: -4341603150080803814
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_65: 7661462142336735434
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_66: -7846693253928730048
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_67: 1520887197240771236
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_68: 3384464358993793049
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_69: 2220698227497666682
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_7: 3541689227740182896
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_70: 8838064347683742589
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_71: -284068222792128237
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_72: -4501089594161868474
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_73: 8370685716708912712
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_74: 4260550008278212924
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_75: 1615482437037012034
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_76: 6811278829320130690
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_77: 711527171552412087
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_78: -2436319437465687622
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_79: -4025086307785187550
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_8: -4950360803658054614
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_80: 5353650973302886243
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_81: -6702799384668774867
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_82: 5584419694409000516
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_83: 6814352802515599227
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_84: -4642948220682147915
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_85: -7789645798656208543
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_86: -1858246476047789028
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_87: -6864084055473886074
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_88: -6448159980918951611
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_89: -4671324455490455030
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_9: -2188097154209815043
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_90: -224508300889831399
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_91: -403134858822005130
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_92: -4152600428436821966
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_93: 2828366440362956091
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_94: 2981712693192603474
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_95: 6614934945440961665
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_96: -9220498985870278368
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_97: -3997712143692534874
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_98: 867238916208606644
+      a_2d_particle_texture_sheet_cartoon_debris_or_sharp_fragments_red_fa5c5c_and_gray_for_a_breaking_or_naq5ws0uma80cy7uc2r0_3-Photoroom_99: 987391831083368188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

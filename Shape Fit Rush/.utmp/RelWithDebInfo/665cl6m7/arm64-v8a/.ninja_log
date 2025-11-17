@@ -1,0 +1,23 @@
+# ninja log v5
+62	3725	7850697819680308	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	80d01c0bc2b3165e
+214	746	7850697789903393	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	83cf2037fc2d3b93
+199	3692	7850697819116207	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7aacb0629fb0b56a
+747	1193	7850697794433999	D:/Unity/Shape Fit Rush/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/665cl6m7/obj/arm64-v8a/libswappywrapper.so	a5b0301ba7de0c58
+75	3509	7850697817448358	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	921da12309a7dc80
+98	3124	7850697812809417	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3b9678003d0970ea
+86	3495	7850697817134256	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ccc3ecb0b434476f
+50	3578	7850697817809367	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	23d76455515762c
+183	3516	7850697817559720	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8ab731f6750642d2
+151	3718	7850697819630436	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b12f41f56fefcbec
+3725	3973	7850697822222939	D:/Unity/Shape Fit Rush/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/665cl6m7/obj/arm64-v8a/libgame.so	98ba2bdc03645ff4
+209	1196	7850768002938834	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	83cf2037fc2d3b93
+1196	2688	7850768015225606	D:/Unity/Shape Fit Rush/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/665cl6m7/obj/arm64-v8a/libswappywrapper.so	a5b0301ba7de0c58
+37	4433	7850768034814758	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ccc3ecb0b434476f
+128	4437	7850768035004484	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3b9678003d0970ea
+165	4451	7850768035637924	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8ab731f6750642d2
+57	4473	7850768035468371	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	921da12309a7dc80
+90	4666	7850768037947761	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	23d76455515762c
+146	5024	7850768042186980	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b12f41f56fefcbec
+73	5121	7850768043150810	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	80d01c0bc2b3165e
+188	5363	7850768045632876	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7aacb0629fb0b56a
+5363	5570	7850768047687452	D:/Unity/Shape Fit Rush/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/665cl6m7/obj/arm64-v8a/libgame.so	98ba2bdc03645ff4

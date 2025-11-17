@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080a5a4c547022b4195dca296b87595e, type: 3}
+  m_Name: UIPrefabDatabase
+  m_EditorClassIdentifier: 
+  popups:
+  - popupID: {fileID: 11400000, guid: 84e5292ff5ecaac48b85f598eb28a481, type: 2}
+    prefab: {fileID: 9203459040364766069, guid: 244b83af0b429d2418ff2cbd7e52a457, type: 3}
+  - popupID: {fileID: 11400000, guid: ee7412a3a27d64d41ab6c722b30bd390, type: 2}
+    prefab: {fileID: 0}
+  - popupID: {fileID: 11400000, guid: 3a46a08eb7fbb6641978f20dd54897f8, type: 2}
+    prefab: {fileID: 8329658554497898156, guid: 09e905625e4201741a1734442e59028d, type: 3}
+  - popupID: {fileID: 11400000, guid: ec78e291fc905ea4d9c3e816c0ba0774, type: 2}
+    prefab: {fileID: 3115282917136044468, guid: ea534e3f2cbb37d48bf3293834345c09, type: 3}
